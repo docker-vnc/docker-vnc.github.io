@@ -1,1 +1,5 @@
+title: Docker VNC
+description: Docker images with VNC on Ubuntu.
+show_downloads: false
+google_analytics: UA-44336640-7
 theme: jekyll-theme-cayman
